@@ -120,6 +120,8 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
 ## 👨‍💻 Author
 
 **Muhammad Rifki Firmansyah**
+**221011400825**
 
 Jika repository ini bermanfaat, jangan lupa ⭐ sebagai bentuk dukungan.
+
 
