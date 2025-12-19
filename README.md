@@ -1,50 +1,52 @@
-# PinjamYuk - Aplikasi Web Pinjaman Modal
 
-Aplikasi web untuk manajemen pinjaman modal dengan fitur admin dan nasabah.
+---
 
-## Fitur Utama
+## 🚀 Instalasi
 
-### Untuk Admin:
-- Dashboard dengan statistik lengkap
-- Manajemen data nasabah
-- Approval pengajuan pinjaman
-- Laporan dan cetak laporan
-- Manajemen profil
+1. **Clone / Download Project**
+   - Letakkan folder project ke:
+     - `htdocs` (XAMPP) atau
+     - `www` (Laragon)
 
-### Untuk Nasabah:
-- Dashboard dengan info limit
-- Pengajuan pinjaman online
-- Kalkulator pinjaman
-- Riwayat pinjaman
-- Manajemen profil
-
-### Fitur Perhitungan:
-- Perhitungan bunga otomatis
-- Sistem diskon
-- Limit pinjaman
-- Simulasi angsuran
-
-## Instalasi
-
-1. **Import Database:**
-   - Buat database `pinjamyuk`
+2. **Import Database**
+   - Buat database dengan nama `pinjamyuk`
    - Import file `pinjamyuk.sql`
 
-2. **Konfigurasi Database:**
+3. **Konfigurasi Database**
    - Edit file `config/database.php`
-   - Sesuaikan host, username, password
+   - Sesuaikan host, username, dan password database
 
-3. **Akses Aplikasi:**
-   - Buka browser akses `http://localhost/pinjamyuk`
+4. **Akses Aplikasi**
+   - Buka browser
+   - Akses:
+     ```
+     http://localhost/pinjamyuk
+     ```
 
-## Login Default
+---
 
-### Admin:
+## 🔐 Login Default
+
+### Admin
 - Email: `admin@pinjamyuk.com`
 - Password: `123456`
 
-### Nasabah:
+### Nasabah
 - Email: `nasabah@pinjamyuk.com`
 - Password: `123456`
 
-## Struktur Folder
+---
+
+## 📌 Catatan
+
+- Project ini dibuat untuk keperluan **pembelajaran / tugas kuliah**
+- Data yang digunakan masih bersifat **dummy**
+- Aplikasi belum di-deploy ke hosting
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Rifki Firmansyah**
+
+Jika project ini bermanfaat, jangan lupa ⭐ repository ini.
